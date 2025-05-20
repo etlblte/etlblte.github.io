@@ -18,9 +18,10 @@ To find out how to connect to a specific port using ssh, I used tldr to see a fe
 
 ```bash
 tldr ssh
+
+# Connect to a remote server using a specific port:
+# ssh {{username}}@{{remote_host}} -p {{2222}}
 ```
- >- Connect to a remote server using a specific port:
-   ssh {{username}}@{{remote_host}} -p {{2222}}
 
 Now, we can connect to the provided server on port 2220 as follows:
 ```bash
