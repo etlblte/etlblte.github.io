@@ -19,7 +19,7 @@ bandit3@bandit:~$ ls
 # inhere
 bandit3@bandit:~$ cd inhere
 bandit3@bandit:~/inhere$ ls
-bandit3@bandit:~/inhere$
+# 
 ```
 
 To read about the arguments available for a specific command you can read its manual page using the man command:
@@ -41,7 +41,6 @@ bandit3@bandit:~/inhere$ ls -A
 # ...Hiding-From-You
 bandit3@bandit:~/inhere$ cat "...Hiding-From-You" 
 #redacted
-bandit3@bandit:~/inhere$
 ```
 
 ### Summary
