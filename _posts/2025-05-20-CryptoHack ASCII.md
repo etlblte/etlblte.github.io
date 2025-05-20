@@ -1,8 +1,8 @@
 ---
 title: CryptoHack ASCII
 date: 2025-05-20 13:00:00 +/-0500
-categories: [ctf, programming]
-tags: [cryptohack, intro_to_cryptohack, cryptography, python]     
+categories: [ctf]
+tags: [cryptohack, intro_to_cryptohack, cryptography, programming, python]     
 ---
 
 ### Goal
