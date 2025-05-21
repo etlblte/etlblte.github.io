@@ -8,9 +8,11 @@ math: true
 
 ### Goal
 > Included below is a flag encoded as a hex string. Decode this back into bytes to get the flag.
+
 ```python
 0x63727970746f7b596f755f77696c6c5f62655f776f726b696e675f776974685f6865785f737472696e67735f615f6c6f747d
 ```
+
 ### Solution
 [Hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal) or "hex" is another way we can encode data. It's commonly used due to its portability across different systems. Hex uses a Base 16 system where a character represents a number 0-15. To avoid using two characters for numbers past 9, hex opts to use letters starting from 'a' instead. So we have 'a' representing 10, then 'b' representing 11, all the way to 'f' representing 15.  
 
