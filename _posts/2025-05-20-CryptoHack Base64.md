@@ -1,11 +1,9 @@
-```
 ---
 title: CryptoHack Base64
 date: 2025-05-20 13:02:00 +/-0500
 categories: [ctf]
 tags: [cryptohack, intro_to_cryptohack, cryptography, programming, python]
 ---
-```
 
 ### Goal
 > Take the below hex string, _decode_ it into bytes and then _encode_ it into Base64.
