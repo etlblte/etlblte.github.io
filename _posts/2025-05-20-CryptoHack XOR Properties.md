@@ -39,6 +39,7 @@ Lastly, the self-inverse property means that anything XOR'ed with itself will ca
 $$
 \text{4.) Self-Inverse: } A \oplus A = 0
 $$
+
 From the given variables for this challenge, we are only given one decoded value KEY1. However, using the properties of XOR we can derive all the other values. For instance, using the self-inverse, identity, and associative properties we can gather the following if we XOR the values `KEY2 ^ KEY1` and `KEY1`:
 
 $$
