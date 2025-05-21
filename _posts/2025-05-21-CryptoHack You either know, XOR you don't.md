@@ -1,11 +1,9 @@
-```
 ---
 title: CryptoHack You either know, XOR you don't
 date: 2025-05-20 13:12:00 +/-0500
 categories: [ctf]
 tags: [cryptohack, intro_to_cryptohack, cryptography, programming, python]     
 ---
-```
 
 ### Goal
 > I've encrypted the flag with my secret key, you'll never be able to guess it.

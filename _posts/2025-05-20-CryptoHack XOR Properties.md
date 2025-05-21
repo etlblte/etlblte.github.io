@@ -1,4 +1,3 @@
-```
 ---
 title: CryptoHack XOR Properties
 date: 2025-05-20 13:09:09 +/-0500
@@ -6,7 +5,6 @@ categories: [ctf]
 tags: [cryptohack, intro_to_cryptohack, cryptography, programming, python]   
 math: true
 ---
-```
 
 ### Goal
 > Let's put this into practice! Below is a series of outputs where three random keys have been XOR'd together and with the flag. Use XOR properties to undo the encryption in the final line to obtain the flag.

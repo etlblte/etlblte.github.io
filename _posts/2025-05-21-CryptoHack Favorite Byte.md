@@ -1,4 +1,3 @@
-```
 ---
 title: CryptoHack Favorite Byte
 date: 2025-05-20 13:10:00 +/-0500
@@ -6,7 +5,6 @@ categories: [ctf]
 tags: [cryptohack, intro_to_cryptohack, cryptography, programming, python]
 math: true
 ---
-```
 
 ### Goal
 > I've hidden some data using XOR with a single byte, but that byte is a secret. Don't forget to decode from hex first.

@@ -1,11 +1,9 @@
-```
 ---
 title: CryptoHack Bytes and Big Integers
 date: 2025-05-20 13:04:00 +/-0500
 categories: [ctf]
 tags: [cryptohack, intro_to_cryptohack, cryptography, programming, python]     
 ---
-```
 
 ### Goal
 > Convert the following integer back into a message:

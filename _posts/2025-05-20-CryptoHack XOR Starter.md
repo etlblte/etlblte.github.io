@@ -1,11 +1,9 @@
-```
 ---
 title: CryptoHack XOR Starter
 date: 2025-05-20 13:07:00 +/-0500
 categories: [ctf]
 tags: [cryptohack, intro_to_cryptohack, cryptography, programming, python]     
 ---
-```
 
 ### Goal
 > Given the string `label`, XOR each character with the integer `13`. Convert these integers back to a string and submit the flag as `crypto{new_string}`.
