@@ -14,7 +14,7 @@ This is an implementation of the ROT13 cipher using terminal commands. To transl
 ```bash
 $ tldr tr
 #  - Map each character of the first set to the corresponding character of the second set:
-#   tr '{{abcd}}' '{{jkmn}}' < {{path/to/file}}
+#   tr 'abcd' 'jkmn' < path/to/file
 
 $ man tr
 # CHAR1-CHAR2
